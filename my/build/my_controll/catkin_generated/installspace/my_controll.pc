@@ -1,0 +1,8 @@
+prefix=/home/lab/Documents/Data_reforement_code/my/install
+
+Name: my_controll
+Description: Description of my_controll
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
